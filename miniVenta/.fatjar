@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Dec 23 23:48:10 PET 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=/home/scarlos/ProjectsEclipse/ventaSetsoft/ventaSetsoft_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.setsoft.venta.launch.SpringLauncher
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=lib
+excludes=
+includes=
