@@ -6,7 +6,7 @@ Proyecto de mini sistema de ventas con el uso de spring framework, hibernate y J
 
 Tenemos lo siguiente:
 
-- Carpeta "miniVenta" que es un proyecto hecho en Eclipse Indigo R2, uso de maven, spring framework, hibernate y JPA 2.0.
+- Carpeta "spring-mini-venta" que es un proyecto hecho en Eclipse Indigo R2, uso de maven, spring framework, hibernate y JPA 2.0.
 	
 Para ejecutar lo primero: 
 * Run as -> Maven install
