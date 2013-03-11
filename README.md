@@ -14,6 +14,6 @@ Para ejecutar lo primero:
 
 - Tenemos un script para la BD en MySQL, el archivo MiniVenta20130311.sql
 
-
+=======================================================================
 OBSERVACION: Quizas tengan problemas con el jar forms-1.3.0.jar(algo asi como que no lo encuentra), este jar debe estar contenido dentro del repositorio de maven en tu maquina, por ejemplo yo lo tengo en:
 /home/scarlos/.m2/repository/forms/forms/1.3.0/forms-1.3.0.jar
